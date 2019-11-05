@@ -1,0 +1,24 @@
+data_file = ../data-hcc/HPIC_matrix.txt
+gt_file = ../data-hcc/HPIC_gt.txt
+max_diff = 0.15	seed_col_sz = 50	do_rate = 0.1
+
+Phase 1: Pattern Mining.
+num_biclusters = 36
+num_covered_cells = 42
+
+Phase 2: Pattern Merging
+num_patterns = 5
+num_covered_cells = 42
+
+Phase 3:
+num_patterns = 5
+num_covered_cells = 60
+ARI = 0.925229
+runtime = 3.398 sec
+
+num_patterns = 5
+Pattern 0: (#cells = 18) 0 9 13 15 17 21 25 26 27 28 29 33 35 37 50 51 57 59 
+Pattern 1: (#cells = 10) 5 14 22 38 40 43 46 47 49 56 
+Pattern 2: (#cells = 14) 1 6 8 12 23 30 36 42 45 52 53 54 55 58 
+Pattern 3: (#cells = 9) 2 4 10 11 16 20 32 39 41 
+Pattern 4: (#cells = 9) 3 7 18 19 24 31 34 44 48 
