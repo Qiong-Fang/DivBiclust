@@ -9,7 +9,7 @@ Nine scRNA-Seq datasets are used in our paper, which are called the HCC, HEC, HP
 2. Implementation
 
 DivBiclust is implemented using C++ on Visual Studio 2015.                                                                           
-The input files are "***_matrix.txt" and "***_gt.txt", and the output file is "***_output.txt", where "***" can be replaced by "HCC", "HEC", "HUM1", "MOU1", and etc.
+The input files are "@@@_matrix.txt" and "@@@_gt.txt", and the output file is "@@@_output.txt", where "@@@" can be replaced by "HCC", "HEC", "HUM1", "MOU1", and etc.
 
 3. Supplementary Document
 
