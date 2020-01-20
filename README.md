@@ -13,7 +13,7 @@ The input files are "@@@_matrix.txt" and "@@@_gt.txt", and the output file is "@
 3. Supplementary Document                                                                                                                 
 The supplementary document contains four sections.                                                                                 
 Section 1: The preprocessing steps and the transcriptome details of the datasets;                                                       
-Section 2: The experiment results on the MBC dataset;
+Section 2: The experiment results on the MBC dataset;                                                                                  
 Section 3: The experiment results on two MOU datasets;                                                                              
 Section 4: The experiment results on four HUM_NZ and two MOU_NZ datasets;                                                           
 Section 5: The parameter settings of the related methods.
